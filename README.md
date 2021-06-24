@@ -14,5 +14,4 @@ What can be done?
 10 Computer licensing version 2 (win pro)
 11 Send ping
 12 MS Office 2016 licensing
-
 Note: If the licensing is not working, a new KEY must be entered from the source code.
